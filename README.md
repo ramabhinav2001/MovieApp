@@ -57,7 +57,7 @@ frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-movie-app.git
+git clone https://github.com/ramabhinav2001/MovieApp.git
 cd react-movie-app/frontend
 ```
 
